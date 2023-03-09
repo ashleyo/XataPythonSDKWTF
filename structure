@@ -1,0 +1,12 @@
+{
+    "meta":{
+        "page":{
+            "cursor":"yjKsVirOLypRsopWykxRitVRSsssKgZzi1KT45PTzIvyjAvMU8zM8zMNDA1Ty7IMQIpyEpHUpBunZ6aaFFoampik5Bukm5pYQtRk5maWKFkZGegopeUkphcrWRnUcgECAAD__w",
+            "more":false
+            }
+        },
+    "records":[
+        {"agent":"c0aec66f-7be1-495d-9663-5e49711c9a07","id":"rec_cf7rn3p7d67oi011evj0","location":"75bd8284-471c-1c9b-bb62-fc8b9bdb7d5a","selections":{"0":"a5151909-dd08-7dc8-2058-a0e00fb6f1f6","1":"9dd7f29f-777a-3864-6642-ebdc372a5054","10":"3244694b-5822-74aa-5914-64e788a0b6d1","2":"e84271ae-9ee2-4c01-6340-6047913e5ea7","3":"dc5b58f9-c95b-44b1-03d5-36410e49eb36","4":"50ed6d54-a32b-b21a-e7c2-e1acd2eaa1e5","5":"025ac85d-7b4b-7927-0008-6ac47dd36e39","6":"0b53c5eb-015a-42b1-05b1-42bbbef1253f","7":"f0b14838-edcb-f0b3-db2e-82746e605c06","8":"f3dbfcfe-acf0-6754-75a9-590ab0fa47f5","9":"81614e74-c3b0-3c71-bd36-7b79d195a326"},"serial":3,"timestamp":"Thu 1970-01-01 -8:00:00 PST","xata":{"version":0}},
+        {"agent":"Steve","id":"rec_cg3gie4q9144do0g5490","location":"here","selections":{"0":"s1","1":"s2"},"serial":69,"timestamp":"now","xata":{"version":0}}
+        ]
+}
